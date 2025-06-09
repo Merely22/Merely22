@@ -42,9 +42,13 @@ Centro Latinoamericano de Posgrado
 ---
 
 ## 🧪 Work Experience
+**Metta Technologies SAC**  
+📅 January 2025 – Present  
+- I develop geospatial software solutions and analyze GNSS positioning data to evaluate signal quality and system performance.
+- My work integrates APIs, cloud services, and custom tools to process and visualize data from proprietary GNSS devices.
 
 **National Institute of Agrarian Innovation (INIA)**  
-📅 Feb 2024 – Present  
+📅 Feb 2024 – Decemeber 2024 
 - Thesis research with a focus on soil science and machine learning
 
 **Superintendencia Nacional de Bienes Estatales**  
@@ -70,6 +74,7 @@ Centro Latinoamericano de Posgrado
 - 📡 **GNSS Data Analysis App:** Tools for analyzing RINEX and NMEA files from geodetic equipment using Streamlit
 - 🗺️ **Geospatial Dashboards:** Custom apps for visualizing and automating spatial analysis
 - 📝 **Co-author:** Article on family farming technology projects in Matucana District (published under CONCYTEC – ECI)
+- 📝 **Co-author:** Currently awaiting the publication of two articles providing my climatological approach, analysis and modeling of geospatial data. 
 
 ---
 
@@ -78,7 +83,7 @@ Centro Latinoamericano de Posgrado
 - Advanced Python for geospatial applications  
 - JavaScript for web development  
 - Streamlit app deployment  
-- English (A1 level)
+- English (B1 level)
 
 ---
 
