@@ -32,11 +32,6 @@ National University of San Marcos
 📅 Mar 2018 – Jul 2023  
 📝 Thesis in progress: *Soil Carbon Estimation using Machine Learning*
 
-**Specialization Diploma**  
-Centro Latinoamericano de Posgrado  
-📅 Jan 2021 – Jun 2021  
-📌 Coursework in Watershed and Water Resources Management
-
 ---
 
 ## 🧪 Work Experience
@@ -48,23 +43,6 @@ Centro Latinoamericano de Posgrado
 **National Institute of Agrarian Innovation (INIA)**  
 📅 Feb 2024 – Decemeber 2024 
 - Thesis research with a focus on soil science and machine learning
-
-**Superintendencia Nacional de Bienes Estatales**  
-📅 Nov 2022 – Oct 2023  
-- Supported the First Domain Registration technical team with geospatial analysis tasks
-
-**Geographical Society of Lima** (Volunteer)  
-📅 Feb 2022 – Apr 2022  
-- Spatial analysis of communal lands for district boundary redelimitation proposals
-
-**Centro Bartolomé de las Casas** (Volunteer)  
-📅 Oct 2021 – Jan 2022  
-- Terrace inventory in the Piuray-Ccorimarca micro-watershed in Cusco
-
-**Municipality of Carapo**  
-📅 Jun 2021 – Aug 2021  
-- Assisted in environmental training and municipal solid waste management projects
-
 ---
 
 ## 🛰 Projects
@@ -87,8 +65,6 @@ Centro Latinoamericano de Posgrado
 
 ## 📫 Contact
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/merely-tumbalobos-014b76186/)
-- 💻 [GitHub](https://github.com/Merely22)
 - 📧 merely.tdextre@gmail.com
 
 ---
