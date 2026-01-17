@@ -1,13 +1,14 @@
 # 👩‍💻 Merely Tumbalobos
 
-🌍 Future Geographical Engineer | 📊 Spatial Data Analyst | 💡 Passionate about learning and technology
+🌍 Remote Sensing | Ecosystem Conservation | Monitoring in Andean-Amazonian Ecosystems
 
 ---
 
 ## 👋 About Me
 
-Hi! I'm Merely, a future Geographical Engineer from the National University of San Marcos (UNMSM), passionate about spatial data analysis, open-source tools, and creating solutions using Python and geotechnologies. Currently, I’m working on my thesis focused on **soil carbon estimation using Machine Learning**, where I combine environmental knowledge and data science.
-
+🍃🗺️ Hi! I'm Merely, a Geographical Engineer passionate about understanding the world through geosciences. 
+My work combines environmental science with data-driven solutions to understand carbon stocks and climate patterns in Andean-Amazonian ecosystems.
+🌳🌍 I am always looking to collaborate on international research projects, funded opportunities, and initiatives that leverage geotechnologies for climate action.
 ---
 
 ## 🚀 Tech Stack
@@ -18,8 +19,6 @@ Hi! I'm Merely, a future Geographical Engineer from the National University of S
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS">
   <img src="https://img.shields.io/badge/Google_Earth_Engine-3C3C3C?style=for-the-badge&logo=google&logoColor=white" alt="Google Earth Engine">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 </p>
 
 ---
@@ -31,14 +30,17 @@ National University of San Marcos
 📅 Mar 2018 – Jul 2023  
 📝 Thesis in progress: *Soil Carbon Estimation using Machine Learning*
 
+**M.Sc.in Environmental Sciences**  
+University of Engineering and Technology
+📅 August 2025 – Present
+📝 Thesis in progress: *Estimation of river carbon in Amazonian peatlands*
+
 ---
 
 ## 🧪 Work Experience
-**Metta Technologies SAC**  
-📅 January 2025 – Present  
-- I develop geospatial software solutions and analyze GNSS positioning data to evaluate signal quality and system performance.
-- My work integrates APIs, cloud services, and custom tools to process and visualize data from proprietary GNSS devices.
-
+**Water Research and Technology Centre**  
+📅 November 2025 – Present  
+- My work integrates hydrological modelling using SWAT software and the identification of peatlands using machine learning algorithms in the cloud. 
 **National Institute of Agrarian Innovation (INIA)**  
 📅 Feb 2024 – Decemeber 2024 
 - Thesis research with a focus on soil science and machine learning
@@ -55,8 +57,7 @@ National University of San Marcos
 
 ## 🌱 Currently Learning
 
-- Advanced Python for geospatial applications  
-- JavaScript for web development  
+- Advanced Python for geospatial applications   
 - Streamlit app deployment  
 - English (B1 level)
 
