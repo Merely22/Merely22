@@ -20,7 +20,7 @@ Currently seeking international collaborations in:
 
 | Domain | Tools & Libraries |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) |
 | **Geospatial Cloud** | ![GEE](https://img.shields.io/badge/Google_Earth_Engine-4285F4?logo=googleearth&logoColor=white) ![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?logo=amazon&logoColor=white) |
 | **GIS & RS Software** | QGIS, ArcGIS Pro, SNAP (Sentinel Application Platform), SWAT (Soil & Water Assessment Tool). |
 | **Python Libraries** | `geopandas`, `xarray`, `rasterio`, `scikit-learn`, `matplotlib`, `folium`. |
@@ -66,7 +66,7 @@ Currently seeking international collaborations in:
 I am open to discussing research methodology, satellite data processing (Sentinel/Landsat), and environmental policy.
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:merely.tdextre@gmail.com)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tu-usuario-aqui)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/tu-usuario-aqui](https://www.linkedin.com/in/merely-tumbalobos-014b76186/))
 
 ---
 *"Geography is not just about maps – it's about understanding space to transform realities."*
