@@ -6,9 +6,9 @@
 
 ## 👋 About Me
 
-🍃🗺️ Hi! I'm Merely, a Geographical Engineer passionate about understanding the world through geosciences. 
+🍃🗺️ Hi! I'm Merely, a Geographical Engineer passionate about understanding the world through geosciences.
 My work combines environmental science with data-driven solutions to understand carbon stocks and climate patterns in Andean-Amazonian ecosystems.
-🌳🌍 I am always looking to collaborate on international research projects, funded opportunities, and initiatives that leverage geotechnologies for climate action.
+🌳I'm always looking to collaborate on international research projects, funded opportunities, and initiatives that leverage geotechnologies for climate action.
 ---
 
 ## 🚀 Tech Stack
@@ -20,7 +20,6 @@ My work combines environmental science with data-driven solutions to understand 
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS">
   <img src="https://img.shields.io/badge/Google_Earth_Engine-3C3C3C?style=for-the-badge&logo=google&logoColor=white" alt="Google Earth Engine">
 </p>
-
 ---
 
 ## 🎓 Education
@@ -34,9 +33,7 @@ National University of San Marcos
 University of Engineering and Technology
 📅 August 2025 – Present
 📝 Thesis in progress: *Estimation of river carbon in Amazonian peatlands*
-
 ---
-
 ## 🧪 Work Experience
 **Water Research and Technology Centre**  
 📅 November 2025 – Present  
@@ -48,11 +45,8 @@ University of Engineering and Technology
 
 ## 🛰 Projects
 
-- 📡 **GNSS Data Analysis App:** Tools for analyzing RINEX and NMEA files from geodetic equipment using Streamlit
-- 🗺️ **Geospatial Dashboards:** Custom apps for visualizing and automating spatial analysis
 - 📝 **Co-author:** Article on family farming technology projects in Matucana District (published under CONCYTEC – ECI)
-- 📝 **Co-author:** Currently awaiting the publication of two articles providing my climatological approach, analysis and modeling of geospatial data. 
-
+- 📝 **Co-author:** Spatial prediction of soil organic carbon stocks across contrasting Andean basins, Peru
 ---
 
 ## 🌱 Currently Learning
