@@ -1,66 +1,72 @@
-# 👩‍💻 Merely Tumbalobos
+# Merely Tumbalobos
 
-🌍 Remote Sensing | Ecosystem Conservation | Monitoring in Andean-Amazonian Ecosystems
+**Geographic Engineer | M.Sc. Candidate in Environmental Sciences**
+📍 Lima, Peru | 🛰️ Remote Sensing & Climate Change Specialist
 
 ---
 
-## 👋 About Me
+## 🔬 Research Focus
 
-🍃🗺️ Hi! I'm Merely, a Geographical Engineer passionate about understanding the world through geosciences.
-My work combines environmental science with data-driven solutions to understand carbon stocks and climate patterns in Andean-Amazonian ecosystems.
-🌳I'm always looking to collaborate on international research projects, funded opportunities, and initiatives that leverage geotechnologies for climate action.
+I am a researcher bridging the gap between **Geospatial Analysis** and **Ecosystem Conservation**. My work focuses on quantifying carbon dynamics in Andean-Amazonian landscapes using Earth Observation (EO) data and Machine Learning.
+
+Currently seeking international collaborations in:
+* Global Carbon Cycle Monitoring.
+* Hydrological Modelling in Tropical Basins.
+* Application of Deep Learning for Land Cover Classification.
+
 ---
 
-## 🚀 Tech Stack
+## 🛠 Technical Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS">
-  <img src="https://img.shields.io/badge/Google_Earth_Engine-3C3C3C?style=for-the-badge&logo=google&logoColor=white" alt="Google Earth Engine">
-</p>
+| Domain | Tools & Libraries |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) |
+| **Geospatial Cloud** | ![GEE](https://img.shields.io/badge/Google_Earth_Engine-4285F4?logo=googleearth&logoColor=white) ![AWS](https://img.shields.io/badge/AWS_Cloud-232F3E?logo=amazon&logoColor=white) |
+| **GIS & RS Software** | QGIS, ArcGIS Pro, SNAP (Sentinel Application Platform), SWAT (Soil & Water Assessment Tool). |
+| **Python Libraries** | `geopandas`, `xarray`, `rasterio`, `scikit-learn`, `matplotlib`, `folium`. |
+| **Web Deployment** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) |
+
+---
+
+## 📄 Selected Publications & Articles
+
+* **Co-author:** *Spatial prediction of soil organic carbon stocks across contrasting Andean basins, Peru.*
+* **Co-author:** *Technology adoption in family farming: A case study in Matucana District.* (Published under CONCYTEC – ECI).
+
+---
+
+## 💼 Research Experience
+
+**Water Research and Technology Centre (CITA)** | *Graduate Researcher*
+📅 *Nov 2025 – Present*
+* Leading the hydrological modelling of Amazonian basins using **SWAT**.
+* Developing cloud-based pipelines (GEE) for peatland identification using **Random Forest** classifiers.
+
+**National Institute of Agrarian Innovation (INIA)** | *Research Thesis Fellow*
+📅 *Feb 2024 – Dec 2024*
+* Conducted spatial analysis for soil organic carbon estimation.
+* Processed multispectral satellite imagery for soil property mapping.
+
 ---
 
 ## 🎓 Education
 
-**B.Sc. in Geographic Engineering**  
-National University of San Marcos  
-📅 Mar 2018 – Jul 2023  
-📝 Thesis in progress: *Soil Carbon Estimation using Machine Learning*
+* **M.Sc. in Environmental Sciences** | University of Engineering and Technology (UTEC)
+    * *Focus:* River carbon estimation in Amazonian peatlands.
+    * 📅 2025 – Present
 
-**M.Sc.in Environmental Sciences**  
-University of Engineering and Technology
-📅 August 2025 – Present
-📝 Thesis in progress: *Estimation of river carbon in Amazonian peatlands*
----
-## 🧪 Work Experience
-**Water Research and Technology Centre**  
-📅 November 2025 – Present  
-- My work integrates hydrological modelling using SWAT software and the identification of peatlands using machine learning algorithms in the cloud. 
-**National Institute of Agrarian Innovation (INIA)**  
-📅 Feb 2024 – Decemeber 2024 
-- Thesis research with a focus on soil science and machine learning
----
-
-## 🛰 Projects
-
-- 📝 **Co-author:** Article on family farming technology projects in Matucana District (published under CONCYTEC – ECI)
-- 📝 **Co-author:** Spatial prediction of soil organic carbon stocks across contrasting Andean basins, Peru
----
-
-## 🌱 Currently Learning
-
-- Advanced Python for geospatial applications   
-- Streamlit app deployment  
-- English (B1 level)
+* **B.Sc. in Geographic Engineering** | National University of San Marcos (UNMSM)
+    * *Thesis:* Soil Carbon Estimation using Machine Learning.
+    * 📅 2018 – 2023
 
 ---
 
-## 📫 Contact
+## 📫 Connect
 
-- 📧 merely.tdextre@gmail.com
+I am open to discussing research methodology, satellite data processing (Sentinel/Landsat), and environmental policy.
+
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:merely.tdextre@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tu-usuario-aqui)
 
 ---
-
-> _"Geography is not just about maps – it's about understanding space to transform realities."_
+*"Geography is not just about maps – it's about understanding space to transform realities."*
